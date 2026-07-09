@@ -1,4 +1,4 @@
-# AI Tools Directory
+AIVerse-AI-Tools-Directory-with-Semantic-Search-and-Contextual-Intelligence
 
 An original AI tools discovery platform (inspired by the concept of
 directories like Toolify, but not a copy of it).
