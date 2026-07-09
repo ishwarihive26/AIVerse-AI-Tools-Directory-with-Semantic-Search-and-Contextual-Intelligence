@@ -14,11 +14,3 @@ They run as two separate servers and talk to each other over HTTP:
 
 - Frontend: http://localhost:3000
 - Backend:  http://localhost:8000
-
-See `frontend/README.md` and `backend/README.md` for setup steps
-specific to each part.
-
-## Status
-
-Day 1: Project scaffolding only. No UI, no database tables,
-no features yet.
