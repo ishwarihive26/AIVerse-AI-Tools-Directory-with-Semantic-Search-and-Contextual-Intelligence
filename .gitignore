@@ -1,0 +1,13 @@
+# This root .gitignore is a backup in case someone runs
+# git init at the root level instead of inside frontend/backend.
+# The real .gitignore files live inside frontend/ and backend/.
+
+**/node_modules
+**/venv
+**/.venv
+**/__pycache__
+**/.env
+**/.env.local
+**/.next
+**/*.pyc
+.DS_Store

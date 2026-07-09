@@ -1,0 +1,19 @@
+# virtual environment
+venv/
+.venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# env files (NEVER commit real secrets)
+.env
+
+# alembic (we'll configure this later)
+# keep migration files, ignore only local db files
+*.db
+*.sqlite3
+
+# misc
+.DS_Store
